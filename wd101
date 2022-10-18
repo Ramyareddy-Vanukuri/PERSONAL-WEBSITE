@@ -1,0 +1,28 @@
+<html>
+    <style>
+        head{
+            allign-text:centre;
+        }
+        section {
+    background-image: url("https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg?size=626&ext=jpg");
+    background-size:100% 100%;
+        }
+        </style>
+    <SECTION>
+        <head style="color:red;"><u><strong>PERSONAL-WEBSITE</allign></strong></u></head>
+       <div><h4 style="display:inline";>Name:</h4><p style="display:inline;"><em>Ramya Reddy.Vanukuri</em></p></div>
+            <div><h4 style="display:inline";>Date of Birth:</h4><p style="display:inline;">28-12-2002</p></div>
+            <h4 style="display:inline;">Father Name:</h4><p style="display:inline">Siva Brahma Reddy</p>
+            
+        
+        <h4 style="color:brown";>Hobbies:</h4>
+        <ul>
+            <li>Listening songs</li>
+            <li>Dancing</li>
+            <li>Web browsing</li>
+        </ul>
+        <h4 style="color:aquamarine">Strengths:</h4>
+        <p style="color:aliceblue">Family and Friends</p>
+
+    </SECTION>
+</html>
